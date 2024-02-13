@@ -1,0 +1,16 @@
+MRN	PrimaryDiagnosis	RelevantMutation	ECMIndicator	ECMStatus	Treatment	XRTExposure	IOIndicator	Drug	Pathology	Notes
+236269-RN01	2504805	Melanoma	BRAF wild	ECM	uncontrolled.progressing	Non-treated	No XRT	IO	Ipi/nivo	tumor/primary	
+236271-RN01	2518511	Breast	ER-, PR-, HER2-	ECM	uncontrolled.progressing	Treated	No XRT	No IO	n/a	tumor/primary	previous resection and post-op SRS to cavity
+236272-RN01	2372845	Breast	ER-, PR-, HER2-	ECM	newdiagnosis.uncontrolled	Non-treated	No XRT	IO	Pembro	tumor/primary	
+236273-RN01	801933	NSCLC	Unknown	No ECM	NED	Treated	XRT	No IO	n/a	tumor/primary	note has multiple cancers: mantle cell lymphoma, adrenal mass
+236274-RN01	2150705	Breast	ER-, PR-, HER2-	ECM	uncontrolled.progressing	Non-treated	No XRT	No IO	n/a	tumor/primary	
+236275-RN01	316522	Others	HER 2-	ECM	uncontrolled.progressing	Non-treated	No XRT	No IO	n/a	tumor/primary	previous targeted therapy
+236276-RN01	2283849	Melanoma	BRAF mut	No ECM	NED	Treated	No XRT	No IO	n/a	tumor/primary	previous SRS in 2018 to other lesions
+236277-RN01	915085	Breast	ER+, PR+, HER2-	ECM	controlled.stable	Non-treated	No XRT	No IO	n/a	tumor/primary	
+236278-RN01	2213108	Breast	ER-, PR-, HER2-	ECM	uncontrolled.progressing	Non-treated	No XRT	No IO	n/a	tumor/primary	
+236279-RN01	2574101	NSCLC	Unknown	ECM	newdiagnosis.uncontrolled	Treated	XRT	No IO	n/a	tumor/primary	
+236280-RN01	1056928	Breast	ER+, PR+, HER2+	ECM	controlled.stable	Non-treated	No XRT	No IO	0	tumor/primary	
+236281-RN01	2547762	NSCLC	ALK fusion+	ECM	newdiagnosis.uncontrolled	Non-treated	No XRT	No IO	n/a	tumor/primary	
+236282-RN01	734643	Others	Unknown	ECM	controlled.stable	Non-treated	No XRT	No IO	n/a	tumor/primary	cabozantinib prior to surgery
+236283-RN01	2518428	Others	HER2+; PDL1 neg	ECM	uncontrolled.progressing	Non-treated	No XRT	No IO	n/a	tumor/primary	
+236284-RN01	2548703	Melanoma	BRAF mut	Unknown	Unknown	Non-treated	No XRT	No IO	n/a	tumor/primary	
